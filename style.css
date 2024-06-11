@@ -1,0 +1,345 @@
+/* .container{ */
+    /* width: 200%; */
+/* }*/
+    .nav-bar{
+    background-color: white;
+    height: 60px;
+    width: 100%;
+    margin-bottom: 7px;
+    display:flex ;
+    justify-content: space-between;
+}
+.logo-img{
+    height: 60px;
+    width: 60px;
+    margin-left: 10px;
+}
+.nav-bar-option-div{
+    display: flex;
+    margin-left:17%;
+    margin-top: 10px;
+}
+.nav-list-opt{
+    list-style-type: none;
+    text-decoration: none;
+    display: flex;
+    margin: 10px;
+    color: black;
+    font-size: large;
+    /* justify-content: space-between; */
+}
+.nav-list-opt a{
+    text-decoration: none;
+}
+.nav-bar-icons-img{
+    height: 40px;
+    width: 40px;
+    margin-right: 10px;
+}
+.nav-bar-icons-div{
+    display: flex;
+    margin-left:24%;
+    margin-top: 10px;
+}
+.cover_banner{
+    width: 100%;
+    height: 100%;
+}
+.shirt-option-but-div{
+    width: 100%;
+    height: 60%;
+    display: flex;
+    align-items: center;
+}
+/* button */
+.new-drops-but{
+    margin: 20px;
+    margin-left: 42%;
+    padding: 16;
+    width: 110px;
+    height: 34px;
+    font-weight: 200;
+    border: 1.2px solid black;
+    border-radius: 15px;
+}
+.MUST-TRENDING-but{
+    margin: 20px;
+    margin-left: -5px;
+    padding: 16;
+    width: 130px;
+    height: 34px;
+    font-weight: 200;
+    border: 1.2px solid black;
+    border-radius: 15px;
+}
+.so-main-div{
+    display: flex;
+    justify-content: space-between;
+}
+.shirt-option-div{
+    display: inline;
+}
+.so-img{
+    width: 270px;
+    height: 400px;
+}
+.ss-main-div{
+    display: flex;
+    justify-content: space-between;
+}
+.so-size-list{
+    list-style-type: none;
+    display: flex;
+}
+.so-size-list-item{
+    justify-content: start;
+    margin-left: 10px;
+}
+.so-size-list-item a{
+    text-decoration: none;
+
+}
+.so-name{
+    font-size: smaller;
+}
+
+
+.shirt-section-div{
+    display: inline;
+}
+.ss-img{
+    width: 340px;
+    height: 540px;
+}
+
+.short-main-div{
+    display: flex;
+    justify-content: space-between;
+
+}
+.short-section-div{
+    display: inline;
+}
+.short-img{
+    width: 340px;
+    height: 540px;
+}
+.short-size-list{
+    list-style-type: none;
+    display: flex;
+}
+/* <!-- SEASONAL FAV'S section --> */
+.seasonal-fav-div{
+    display: flex;
+    justify-content: space-between;
+}
+.seasonal-fav-img{
+    width: 340px;
+    height: 540px;
+}
+.seasonal-fav-section-div{
+    display: inline;
+}
+.view-all-but-div{
+    width: 100%;
+    height: 60%;
+    display: flex;
+}
+/* button */
+.view-all-but{
+    /* border: 1.2px solid black; */
+    align-items: center;
+    margin: 20px;
+    margin-left: 46.4%;
+    padding: 16;
+    width: 110px;
+    height: 34px;
+    font-weight: 200;
+    border: 1.2px solid black;
+    border-radius: 15px;
+}
+/* trend now */
+.trend-now-div{
+    display: flex;
+    justify-content: space-between;
+}
+.trend-now-img{
+    width: 340px;
+    height: 540px;
+    /* margin: 10px; */
+}
+.trend-now-section-div{
+    display: inline;
+}
+
+/* others */
+
+.others-div{
+    display: flex;
+    justify-content: space-between;
+}
+.others-img{
+    width: 340px;
+    height: 540px;
+}
+.others-section-div{
+    display: inline;
+}
+.footer-section{
+    display: flex;
+    margin-top: 25px;
+    justify-content: space-between;
+}
+/* .OFFLINE-STORE-div{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.GET-TO-KNOW-US-div{
+    margin-left: 10%;
+    margin-right: 20px;
+}
+.RETURN-EXCHANGE-ORDER-div{
+    margin-left: 10%;
+    margin-right: 20px;
+}
+.CUSTOMER-CARE-div{
+    margin-left: 10%;
+    margin-right: 20px;
+} */
+.mail-img{
+    height: 20px;
+    width: 20px;
+}
+.scoial-icon-fot{
+    display: flex;
+    list-style-type: none;
+}
+.scoial-icon-fot-img{
+    width: 24px;
+    height: 24px;
+    margin-left: 5px;
+    text-align: start;
+}
+.shirt-section-but-div{
+    width: 100%;
+    height: 60%;
+    display: flex;
+}
+/* button */
+.shirt-but{
+    align-items: center;
+    margin: 20px;
+    margin-left: 37%;
+    padding: 16;
+    width: 110px;
+    height: 34px;
+    font-weight: 200;
+    border: 1.2px solid black;
+    border-radius: 15px;
+}
+.t-shirt-but{
+    align-items: center;
+    margin: 20px;
+    margin-left: 10px;
+    padding: 16;
+    width: 110px;
+    height: 34px;
+    font-weight: 200;
+    border: 1.2px solid black;
+    border-radius: 15px;
+}
+.trousers-but{
+    align-items: center;
+    margin: 20px;
+    margin-left: 10px;
+    padding: 16;
+    width: 110px;
+    height: 34px;
+    font-weight: 200;
+    border: 1.2px solid black;
+    border-radius: 15px;
+}
+.ss-size-list{
+    list-style-type: none;
+    display: flex;
+    margin-left:5px ;
+    /* justify-content: space-between; */
+}
+
+/* button */
+.ss-view-all-but-div{
+    width: 100%;
+    height: 60%;
+    display: flex;
+}
+.ss-view-all-but{
+    /* border: 1.2px solid black; */
+    align-items: center;
+    margin: 20px;
+    margin-left: 46.4%;
+    padding: 16;
+    width: 110px;
+    height: 34px;
+    font-weight: 200;
+    border: 1.2px solid black;
+    border-radius: 15px;
+}
+
+.short-but-div{
+    width: 100%;
+    height: 60%;
+    display: flex;
+}
+/* button */
+.short-but{
+    align-items: center;
+    margin: 20px;
+    margin-left: 37%;
+    padding: 16;
+    width: 110px;
+    height: 34px;
+    font-weight: 200;
+    border: 1.2px solid black;
+    border-radius: 15px;
+}
+.co-ords-but{
+    align-items: center;
+    margin: 20px;
+    margin-left: 10px;
+    padding: 16;
+    width: 110px;
+    height: 34px;
+    font-weight: 200;
+    border: 1.2px solid black;
+    border-radius: 15px;
+}
+.pyjamas-but{
+    align-items: center;
+    margin: 20px;
+    margin-left: 10px;
+    padding: 16;
+    width: 110px;
+    height: 34px;
+    font-weight: 200;
+    border: 1.2px solid black;
+    border-radius: 15px;
+}
+
+.short-view-all-but-div{
+    width: 100%;
+    height: 60%;
+    display: flex;
+}
+/* button */
+.short-view-all-but{
+    /* border: 1.2px solid black; */
+    align-items: center;
+    margin: 20px;
+    margin-left: 46.4%;
+    padding: 16;
+    width: 110px;
+    height: 34px;
+    font-weight: 200;
+    border: 1.2px solid black;
+    border-radius: 15px;
+}
